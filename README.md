@@ -106,12 +106,6 @@ The experiment parameters of each data set are formated in the `FDNet.sh` files 
 <b>Figure 5.</b> Univariate forecasting results
 </p>
 
-<p align="center">
-<img src="./img/M4.png" height = "1000" alt="" align=center />
-<br><br>
-<b>Figure 6.</b> Univariate forecasting results under M4
-</p>
-
 
 ## Contact
 If you have any questions, feel free to contact Li Shen through Email (shenli@buaa.edu.cn) or Github issues. Pull requests are highly welcomed!
