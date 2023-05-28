@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Data
 
-ETT, ECL, Traffic, Exchange, weather and ILI datasets were acquired at: [datasets](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing). 
+ETT, ECL, Traffic, Exchange, weather and ILI datasets were acquired at: [datasets](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing). We rename the last variable of ECL/Traffic/Exchange from `OT` to original `MT_321`/`Sensor_861`/`Singapore` respectively.
 
 ## Usage
 Commands for training and testing FDNet of all datasets are in `./scripts/FDNet.sh`.
