@@ -5,7 +5,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of FDNet in the following paper: 
-[FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting](https://www.sciencedirect.com/science/article/pii/S0950705123004161) which has been accepted to Knowledge-Based Systems. 
+[FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting](https://doi.org/10.1016/j.knosys.2023.110666) which has been accepted to Knowledge-Based Systems. 
 
 ## Decomposed Forecasting Formula
 It is different from existing rolling and direct forecasting formulas are illustrated in Figure 1. Built upon direct forecasting formula where forecasting processes of prediction elements are decomposed, decomposed forecasting formula further decomposes feature extraction processes of input elements. Hence, FDNet is composed of basic linear projection layers to extract local fine-grained feature maps of input sequence to get rid of conventional ICOMs and canonical convolutions to stabilize feature extraction processes when handling outliers of input sequences.
